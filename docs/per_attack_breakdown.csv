@@ -1,0 +1,15 @@
+Attack Category,Total Flows,Detected as Threat (%),Exact Category Match (%)
+DoS (Hulk),450,100.0,100.0
+PortScan Reconnaissance,322,100.0,100.0
+DDoS Attack,321,100.0,100.0
+DoS (GoldenEye),153,100.0,97.39
+Brute Force (FTP),108,100.0,100.0
+Brute Force (SSH),102,100.0,100.0
+DoS (Slowloris),76,100.0,100.0
+DoS (Slowhttptest),75,100.0,2.67
+Botnet Activity,57,100.0,98.25
+Web Attack (XSS),31,100.0,22.58
+Web Attack (Brute Force),29,100.0,86.21
+Web Attack (SQL Injection),12,100.0,0.0
+Infiltration Attack,3,100.0,0.0
+Heartbleed Vulnerability Exploit,2,100.0,0.0
