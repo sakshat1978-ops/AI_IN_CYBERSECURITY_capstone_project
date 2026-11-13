@@ -1,9 +1,9 @@
 # 🛡️ AI-Powered Dual-Stage Cyber Defense & Strategic Threat Intelligence System
 ### Grand Unified Capstone Project | Cyber Security, AI Governance & Machine Learning
 
-![Student](https://img.shields.io/badge/Student-Adarsh%20Kumar%20Sharma-blue?style=flat&logo=user)
-![Roll No](https://img.shields.io/badge/Roll%20No-2301420058-blue)
-![Program](https://img.shields.io/badge/Program-B.Tech%20CSE%20(Data%20Science)-green)
+![Student](https://img.shields.io/badge/Student-Akshat%20%20Sharma-blue?style=flat&logo=user)
+![Roll No](https://img.shields.io/badge/Roll%20No-2301730295-blue)
+![Program](https://img.shields.io/badge/Program-B.Tech%20CSE%20(AI%20ML)-green)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.3%2B-orange?logo=scikit-learn)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.50%2B-FF4B4B?logo=streamlit)
